@@ -107,3 +107,5 @@ source is its tag in this repository. [LICENSING.md](LICENSING.md) has the detai
 
 "M-VAVE" and "FM-1" are trademarks of their respective owners. GATOR is not affiliated with, endorsed by or
 supported by them.
+
+You can also try GATOR in the browser, no flashing needed, in the free community [FM-1 Emulator](https://fm1-emulator.atst.tools/).
